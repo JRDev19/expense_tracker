@@ -41,6 +41,8 @@ program.command('list')
         return acc;
     }, {});
     console.table(expensesObject);
+    const totalCost = expenses.reduce((sum, expense) => sum + expense.cost, 0); // Suma los costos
+    console.log(`Total: ${totalCost}`);
 }));
 program.command('delete <id>')
     .action((id) => {

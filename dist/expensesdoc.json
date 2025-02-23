@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "almuerzo",
+    "cost": 15,
+    "date": "2025-02-23T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "cena",
+    "cost": 30,
+    "date": "2025-02-23T22:14:07.837Z"
+  },
+  {
+    "id": 3,
+    "title": "desayuno",
+    "cost": 8,
+    "date": "2025-02-22T07:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "transporte",
+    "cost": 5,
+    "date": "2025-02-23T09:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "gasolina",
+    "cost": 40,
+    "date": "2025-02-22T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "café",
+    "cost": 3,
+    "date": "2025-02-23T14:15:00.000Z"
+  },
+  {
+    "id": 7,
+    "title": "película",
+    "cost": 12,
+    "date": "2025-02-21T20:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "title": "supermercado",
+    "cost": 25,
+    "date": "2025-02-21T16:30:00.000Z"
+  },
+  {
+    "id": 9,
+    "title": "ropa",
+    "cost": 50,
+    "date": "2025-02-19T18:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "title": "suscripción",
+    "cost": 15,
+    "date": "2025-02-23T08:00:00.000Z"
+  }
+]
